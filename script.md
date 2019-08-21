@@ -29,12 +29,12 @@
 
 [ more time ]
 2: is it done yet? 
-3: no. no its not. 
-2: bob is updating the database instance, but it doesnt support SQL 99 so we need to try something simpler
-3: waht? why didnt somebody try this out nin the dev instance??? 
-1: WE DID. but for some reason the instance deployed there is competely different han the intance in production - theyre using MYSQL! 
-2: but.... were not using MySQL in production! 
-1: thats because its too expensive. thousands per seat. 
+3: no. no its not.
+1: jane is updating the database instance, but it doesnt support SQL 99 so we need to try something simpler
+2: waht? why didnt somebody try this out in the staging environment???
+3: I DID. but for some reason the environment there is competely different than the one in production. theyre using MYSQL in staging!
+2: but.... were not using MYSQL in production!
+1: thats because what were using in production costs too much to use in staging as well.
 
 
 [ 1hr later - actirs are in different clothes; its darker in the room; coffee has changed to alcoho ]
